@@ -1,2 +1,2 @@
 Initial Commit
- My First Tech Degree Project 
+ My First Python Tech Degree Project 
