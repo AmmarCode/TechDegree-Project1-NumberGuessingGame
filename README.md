@@ -1,2 +1,2 @@
-# TechDegree Project 1
+Initial Commit
  My First Tech Degree Project 
