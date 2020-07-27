@@ -33,7 +33,7 @@ def start_game(high_score):
             elif guess < random_num:
                 print("It's higher")
             elif guess == random_num:
-                print(f"you guessed it in {count} attempts")
+                print(f"You guessed it in {count} attempts")
                 if high_score is None or high_score > count:
                     high_score = count
                     if high_score == 1:
