@@ -1,4 +1,4 @@
-#Number guessing game 
+Number guessing game 
 Python Web Development Techdegree
 Project 1 Created by AmmarCode
 --------------------------------
