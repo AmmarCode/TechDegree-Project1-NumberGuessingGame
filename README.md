@@ -1,9 +1,9 @@
 Number guessing game 
 --------------------
 
-*Python Web Development 
-*Tech degree Project 1 
-*Created by AmmarCode
+Python Web Development 
+Tech degree Project 1 
+Created by AmmarCode
 
 INTRODUCTION
 ------------
