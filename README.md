@@ -1,7 +1,8 @@
 Number guessing game 
-Python Web Development Techdegree
-Project 1 Created by AmmarCode
---------------------------------
+--------------------
+Python Web Development 
+Tech degree Project 1 
+Created by AmmarCode
 
 INTRODUCTION
 ------------
