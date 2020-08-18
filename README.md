@@ -23,6 +23,6 @@ High score will be recorded and displayed throughout the game.
 
 RQUIREMENTS
 -----------
-Python3
+Python
 
 
