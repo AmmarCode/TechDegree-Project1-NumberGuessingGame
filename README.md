@@ -1,9 +1,10 @@
-Number guessing game 
+### Number guessing game 
 --------------------
 Python Web Development-Tech Degree-Project 1 
-\nCreated by AmmarCode
 
-INTRODUCTION
+Created by AmmarCode
+
+### INTRODUCTION
 ------------
 - Program will generate a random number between 1-10.
 - User will have unlimited guesses to figure out the number.
@@ -12,7 +13,7 @@ INTRODUCTION
 - High score will be recorded and displayed throughout the game.
 
 
-RQUIREMENTS
+### RQUIREMENTS
 -----------
 Python
 
