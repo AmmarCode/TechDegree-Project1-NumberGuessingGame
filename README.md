@@ -1,7 +1,7 @@
 Number guessing game 
 --------------------
 Python Web Development-Tech Degree-Project 1 
-Created by AmmarCode
+\nCreated by AmmarCode
 
 INTRODUCTION
 ------------
