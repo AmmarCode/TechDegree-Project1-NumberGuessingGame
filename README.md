@@ -1,6 +1,6 @@
 Number guessing game 
 --------------------
-Python Web Development-Tech degree Project 1 
+Python Web Development-Tech Degree-Project 1 
 Created by AmmarCode
 
 INTRODUCTION
